@@ -1,0 +1,18 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "budo": "^9.0.0"
+  },
+  "devDependencies": {
+    "budo": "^9.0.0"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/budo ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
